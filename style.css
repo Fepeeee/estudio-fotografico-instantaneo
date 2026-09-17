@@ -1,0 +1,35 @@
+/*Seletor universal*/ 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*seletor de tag*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: black;
+    line-height: 1.6;
+
+}
+    h1{
+font-size: 32px;
+    }
+    h2{
+        font-size: 24px;
+        margin-bottom: 8px;
+    }
+    p{
+        margin-bottom: 16px;
+    }
+    a{
+        text-decoration: none;
+        color: #b30000;
+    }
+
+    header{
+        background-color: #1a1a1a    ;
+        color: #ffffff;
+        padding: 32px 16px;
+    }
